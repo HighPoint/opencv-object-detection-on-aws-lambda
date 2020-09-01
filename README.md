@@ -1,2 +1,5 @@
-# aws-lambda-opencv-object-detection
-OpenCV running Object Detection on AWS Lambda.
+# OpenCV Object Detection on AWS Lambda
+
+Serverless Object Detection using OpenCV on AWS Lambda.
+
+
