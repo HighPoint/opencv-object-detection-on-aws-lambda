@@ -7,3 +7,7 @@ Serverless Object Detection using OpenCV on AWS Lambda. Compare AWS Rekognition,
 Sample Input:
 
 ![Two women](/read-me-images/FaceInput.jpg?raw=true)
+
+Sample Output:
+
+![Two women with bounding boxes](/read-me-images/FaceOutput.jpg?raw=true)
