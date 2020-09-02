@@ -29,6 +29,7 @@ Sample Dog Image Output:
 # How to Use
 
 1. Click the "OpenCV Object Detection Launch Stack" button:
+
 &nbsp;
 
 [![OpenCV Object Detection Launch Stack](read-me-images/OpenCVObjectDetectionLaunchStack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=OpenCVObjectDetectionStack&templateURL=https://opencv-source.s3.amazonaws.com/template.yaml)
@@ -45,7 +46,9 @@ Checkmark the three "I acknowledgement" statements and select "Create Stack." Th
 
 &nbsp;
 
-2) Navigate to S3.
+2) Navigate to S3. You should see a bucket named "opencv-demo-xxxxxxxx", where "xxxxxxxx" is the unique stack identifier from cloudformation. Open this bucket. You will see an "index.html" file. Open this file.
+
+![OpenCV Object Detection Screen Shot](read-me-images/OpenCVScreenShot.png?raw=true)
 
 &nbsp;
 
