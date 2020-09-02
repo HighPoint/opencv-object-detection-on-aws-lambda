@@ -49,8 +49,11 @@ Checkmark the three "I acknowledgement" statements and select "Create Stack." Th
 
 &nbsp;
 
-If you select
+If you select the "Object Detections Options" or "Haar Cascade Face Detection Options", you can control which object detection models or Haar Cascade models you use. The "Output Visualization Options" allows you to control the output image appearance and set a minimum confidence threshold for AWS Rekognition and the OpenCV DNN models. The minimum confidence threshold is 50% for the Haar Cascade models.
 
+![OpenCV Object Detection Menu Screen Shot](read-me-images/OpenCVMenuShot.png?raw=true)
+
+&nbsp;
 
 7) Congratulations! It's that easy.
 
