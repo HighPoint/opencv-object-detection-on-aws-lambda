@@ -4,11 +4,11 @@
 
 Serverless Object Detection using OpenCV on AWS Lambda. Compare AWS Rekognition, OpenCV DNN, and OpenCV Haar Cascades image results directly. 
 
-Sample Human Faces Input:
+Sample Human Image Input:
 
 ![Two women](/read-me-images/FaceInput.jpg?raw=true)
 
-Sample Human Faces Output:
+Sample Human Image Output:
 
 ![Two women with bounding boxes](/read-me-images/FaceOutput.jpg?raw=true)
 
@@ -17,3 +17,11 @@ OpenCV Object Detection on AWS Lambda places black bounding boxes around the hum
 The white bounding boxes around the humans is from OpenCV's Deep Neural Network (DNN). The DNN, in this project, uses the "Faster RCNN Inception Version 2" model. However, you can use any OpenCV DNN compatible model you'd like. This DNN model shows a slightly lower confidence for the humans at 98.5 and 92.2.
 
 The blue bounding boxes shows the OpenCV Haar Cascade for faces. This is an older technology, and not nearly as accurate as neural networks for image detection. The Haar Cascades work best if the picture is already known to contain faces, or dogs, or cats. 
+
+Sample Dog Image Input:
+
+![Dog with bounding boxes](/read-me-images/DogInput.jpg?raw=true)
+
+Sample Dog Image Output:
+
+![Dog with bounding boxes](/read-me-images/DogOutput.jpg?raw=true)
