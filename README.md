@@ -25,3 +25,31 @@ Sample Dog Image Input:
 Sample Dog Image Output:
 
 ![Dog with bounding boxes](/read-me-images/DogOutput.jpg?raw=true)
+
+# How to Use
+
+1. Click the "OpenCV Object Detection Launch Stack" button:
+&nbsp;
+
+[![OpenCV Object Detection Launch Stack](read-me-images/OpenCVObjectDetectionLaunchStack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=OpenCVObjectDetectionStack&templateURL=https://opencv-source.s3.amazonaws.com/template.yaml)
+
+&nbsp;
+
+This will bring you to either the Cloudformation UI or the AWS console if you are not signed in. Sign in, if you are not already. From the Cloudformation UI, click "Next" at the bottom of the screen. Repeat clicking "Next" on the two following pages. You will reach a page with this towards the bottom:
+
+![CloudFormation Shot](/read-me-images/CloudFormationShot.png?raw=true)
+
+&nbsp;
+
+Checkmark the three "I acknowledgement" statements and select "Create Stack." This will start building the CloudFormation stack.
+
+&nbsp;
+
+2) Navigate to S3.
+
+&nbsp;
+
+
+7) Congratulations! The Aerolite Step Function will start executing the PowerShell commands in the S3 file. It's that easy.
+
+&nbsp;
