@@ -358,7 +358,7 @@ Resources:
                     - !Ref "AWS::StackId"
 
 Outputs:
-
+ 
   BucketName:
     Value: !Ref DemoBucket
 
