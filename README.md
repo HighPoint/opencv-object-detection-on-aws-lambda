@@ -55,6 +55,10 @@ If you select the "Object Detections Options" or "Haar Cascade Face Detection Op
 
 &nbsp;
 
-7) Congratulations! It's that easy.
+3) Select a photo. Either select one of the stock photos or upload your own. Select "Detect," if you upload your own image.
+
+
+
+4) Congratulations! It's that easy.
 
 &nbsp;
