@@ -64,3 +64,11 @@ If you select the "Object Detections Options" or "Haar Cascade Face Detection Op
 4) Congratulations! It's that easy.
 
 &nbsp;
+
+# Questions
+
+Any questions or suggestions, just add an "Issues" submission to this repository. Thanks.
+
+&nbsp;
+
+Happy Coding!
