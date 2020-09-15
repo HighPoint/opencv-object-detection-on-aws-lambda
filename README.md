@@ -57,7 +57,7 @@ If you select the "Object Detections Options" or "Haar Cascade Face Detection Op
 
 3) Select a photo. Either select one of the stock photos or upload your own image. Select "Detect," if you uploaded an image or changed the image detection options.
 
-![OpenCV Detection Menu Screen Shot](read-me-images/OpenCVDetectionShot.png?raw=true)
+![OpenCV Detection Menu Screen Shot](read-me-images/OpenCVDetectionShot.png)
 
 &nbsp;
 
