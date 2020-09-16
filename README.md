@@ -4,7 +4,7 @@
 
 Serverless Object Detection using OpenCV on AWS Lambda. Compare AWS Rekognition, OpenCV DNN, and OpenCV Haar Cascades image results directly. 
 
-Sample Human Image Input:
+Sample Human Image Input:  
 
 ![Two women](/read-me-images/FaceInput.jpg?raw=true)
 
